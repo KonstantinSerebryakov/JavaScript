@@ -1,0 +1,1 @@
+use generateCertificates.bat or just create certificates folder by yourself
