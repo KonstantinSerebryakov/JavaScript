@@ -1,3 +1,3 @@
 # About
-in this repository you could find different JavaScript stuff:
-interview small tasks, some algorithms and other
+in this repository you will find different JavaScript code:
+interview small tasks, user-defined Promise class, some algorithms and other
