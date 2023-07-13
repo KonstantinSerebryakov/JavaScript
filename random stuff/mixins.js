@@ -33,5 +33,4 @@ function extend_2(object)
     }
 }
 
-// копируем методы
-Object.assign(User.prototype, sayHiMixin);
+// Object.assign(User.prototype, sayHiMixin);
